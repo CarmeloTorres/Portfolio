@@ -1,0 +1,28 @@
+html {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.header {
+  background-image: url(../assets/images/white\ Background.jpg);
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header img {
+  height: 10em;
+  border-radius: 50%;
+  margin-top: 50px;
+}
+
+.footer img {
+  border-radius: 50%;
+}
