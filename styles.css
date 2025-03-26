@@ -7,7 +7,10 @@ body {
   font-family: "Lato", sans-serif;
   font-weight: 400;
   font-style: normal;
-  background-image: url("white_Background.jpg");
+}
+
+.header {
+  background-image: url("images/white_Background.jpg");
   background-color: gray;
   height: 500px;
   background-position: center;
