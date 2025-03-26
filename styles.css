@@ -10,7 +10,7 @@ body {
 }
 
 body .header {
-  background-image: url("white_background.jpg");
+  background-image: url("white_Background.jpg");
   background-color: gray;
   height: 500px;
   background-position: center;
