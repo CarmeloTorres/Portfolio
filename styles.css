@@ -9,7 +9,7 @@ body {
   font-style: normal;
 }
 
-body .header {
+body > .header {
   background-image: url("white_Background.jpg");
   background-color: gray;
   height: 500px;
